@@ -55,7 +55,7 @@ To create a new JupyterLab instance on Vertex AI Workbench, follow the [instruct
 After launching the notebook instance, you can clone this repository in your JupyterLab environment. To do so, open a Terminal in JupyterLab. Then run the command below to clone the repository into your instance:
 
 ```sh
-git clone https://github.com/GoogleCloudPlatform/generative-ai.git
+git clone https://github.com/justinjm/generative-ai.git
 ```
 
 ## Python library
